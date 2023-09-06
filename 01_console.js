@@ -10,4 +10,4 @@ console.table({fname:'joes',age:24});
 console.error("Sample error");
 console.warn("Sample warning");
 
-console.timeEnd("Timer"); 
+console.timeEnd("Timer");
